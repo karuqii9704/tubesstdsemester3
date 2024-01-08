@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1704125542 source:d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\child.cpp
+	"child.h"
+
+1704125529 d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\child.h
+	"main.h"
+
+1704125225 d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\main.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1704125526 source:d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\parent.cpp
+	"parent.h"
+
+1704125689 d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\parent.h
+	"main.h"
+
+1704125611 source:d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\main.cpp
+	"main.h"
+	"parent.h"
+	"relasi.h"
+	"child.h"
+
+1704125714 d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\relasi.h
+	"main.h"
+	"parent.h"
+	"child.h"
+
+1704125622 source:d:\acoolyeah\semester 3\praktikum struktur data\tp mod 14\tubestubes\relasi.cpp
+	"relasi.h"
+
+1704683185 source:d:\acoolyeah\semester 3\struktur data\tubestubes\main.cpp
+	"main.h"
+	"parent.h"
+	"relasi.h"
+	"child.h"
+
+1704125225 d:\acoolyeah\semester 3\struktur data\tubestubes\main.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1704676408 d:\acoolyeah\semester 3\struktur data\tubestubes\parent.h
+	"main.h"
+
+1704683168 d:\acoolyeah\semester 3\struktur data\tubestubes\relasi.h
+	"main.h"
+	"parent.h"
+	"child.h"
+
+1704676397 d:\acoolyeah\semester 3\struktur data\tubestubes\child.h
+	"main.h"
+
+1704676454 source:d:\acoolyeah\semester 3\struktur data\tubestubes\child.cpp
+	"child.h"
+
+1704681929 source:d:\acoolyeah\semester 3\struktur data\tubestubes\parent.cpp
+	"parent.h"
+
+1704683144 source:d:\acoolyeah\semester 3\struktur data\tubestubes\relasi.cpp
+	"relasi.h"
+
